@@ -5,7 +5,7 @@ import numpy as np
 import plotly.graph_objects as go
 from PIL import Image
 
-df_tot = pd.read_csv('2024\danhsach-24.csv')
+df_tot = pd.read_csv('2024/danhsach-24.csv')
 total = len(df_tot['STT'])
 origin_counts = df_tot['Nơi sinh'].value_counts()
 
