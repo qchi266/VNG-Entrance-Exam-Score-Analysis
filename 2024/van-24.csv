@@ -1,0 +1,100 @@
+﻿STT,Số báo danh,Họ tên,Ngày sinh,Nơi sinh,Giới tính,Dân tộc,Tên trường THCS,Môn chuyên,Trường NV1,Trường NV2,"Xếp loại 
+hạnh kiểm lớp 6","Xếp loại 
+học lực lớp 6",Tính điểm lớp 6,"Xếp loại 
+hạnh kiểm lớp 7","Xếp loại 
+học lực lớp 7",Tính điểm lớp 7,"Xếp loại 
+hạnh kiểm lớp 8","Xếp loại 
+học lực lớp 8",Tính điểm lớp 8,"Xếp loại 
+hạnh kiểm lớp 9","Xếp loại 
+học lực lớp 9",Tính điểm lớp 9,Điểm TB Văn lớp 9,Điểm TB Toán lớp 9,Điểm TB lớp 9,Tổng điểm 4 năm họcTHCS,Điểm thi môn Ngữ văn,Điểm thi môn Toán,Điểm thi môn Anh,Điểm thi môn Chuyên,Điểm xét tuyển chuyên,Điểm xét tuyển thường
+1,9726,Nguyễn Hoàng Linh,4/5/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS số 2 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,9.2,9,9.2,20,8.75,9,8.75,7.25,41,37.75
+2,9739,Mai Ngọc Thảo Nguyên,10/2/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Quách Xuân Kỳ,Văn chuyên,THPT Lê Quý Đôn,THPT Ngô Quyền,T,G,5,T,G,5,T,G,5,T,G,5,8.6,8.5,8.5,20,8.25,8,9.75,7.5,41,36.25
+3,9776,Nguyễn Hà Vy,2/8/2009,Thừa Thiên Huế,Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,9.1,8.9,8.9,20,8,9,8.75,7.5,40.75,37
+4,9688,Nguyễn Hồng Thiên An,8/1/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Bắc Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,9.1,9.1,9.1,20,8.25,8.5,8.25,7.75,40.5,36.75
+5,9736,Phan Lê Thảo Ngọc,10/8/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Bắc Lý,Văn chuyên,THPT Đồng Hới,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.8,8.6,8.7,20,8,8.25,8.5,7.5,39.75,36.25
+6,9753,Trần Khánh Như,11/4/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,9.1,9.4,9.1,20,8.5,9,9.25,6.5,39.75,37.5
+7,9718,Võ Châu Mỹ Kiều,26/02/2009,"Quảng Trạch, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,9,8.1,8.7,20,8.5,9,10,6,39.5,37.5
+8,9708,Lương Gia Hân,3/5/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Bắc Nghĩa,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.6,9.2,9,20,7.5,9,8.75,7,39.25,36.5
+9,9748,Cao Hải Như,3/5/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS và THPT Chu Văn An,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,9.5,9,9.5,20,7.75,8.5,9,7,39.25,36.25
+10,9743,Hoàng Hoa Hà Nhi,14/12/2009,"Quảng Ninh, Quảng Bình",Nữ,Kinh,THCS Duy Ninh,Văn chuyên,THPT Ninh Châu,THPT Nguyễn Hữu Cảnh,T,G,5,T,G,5,T,G,5,T,G,5,8.7,8.9,8.8,20,8.25,8.5,8,7,38.75,36.75
+11,9693,Dương Ngọc Khánh Băng,6/7/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Đức Ninh,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,,,8.9,20,8.25,8,6.25,7.75,38,36.25
+12,9731,Nguyễn Ngọc Trà My,19/02/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Đức Ninh Đông,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.3,9.4,8.9,20,8,8.5,8.5,6.5,38,36.5
+13,9730,Trần Nữ Hoàng Minh,20/04/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Bắc Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.9,9.1,9.1,20,8.25,8,9,6.25,37.75,36.25
+14,9687,Nguyễn Bình An,2/9/2009,"Bố Trạch, Quảng Bình",Nữ,Kinh,THCS và THPT Chu Văn An,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,9.3,8.7,9.3,20,7.5,9,8.5,6.25,37.5,36.5
+15,9723,Hồ Khánh Linh,15/02/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Bắc Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.4,8.9,8.6,20,8.5,8,7.25,6.75,37.25,36.5
+16,9734,Đào Lê Bảo Ngọc,5/11/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Đồng Phú,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.8,9.2,9.2,20,8.25,8.5,8.5,6,37.25,36.75
+17,9721,Trương Thảo Ngọc Lan,12/5/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Đồng Phú,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.8,9,8.9,20,8.25,7.5,8.25,6.5,37,35.75
+18,9737,Trần Hồng Ngọc,6/3/2009,"Quảng Trạch, Quảng Bình",Nữ,Kinh,Trường THCS Quảng Liên,Văn chuyên,THPT Lê Trực,THPT Nguyễn Bỉnh Khiêm,T,G,5,T,G,5,T,G,5,T,G,5,8.9,8.7,8.8,20,8.25,8.75,6,6.75,36.5,37
+19,9766,Nguyễn Anh Thư,18/10/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Quách Xuân Kỳ,Văn chuyên,THPT Lê Quý Đôn,THPT Ngô Quyền,T,G,5,T,G,5,T,G,5,T,G,5,9.1,8.4,8.9,20,8,8.75,8.5,5.5,36.25,36.75
+20,9707,Hoàng Lê Gia Hân,31/10/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Đồng Phú,Văn chuyên,THPT Đào Duy Từ,THPT Đồng Hới,T,G,5,T,G,5,T,G,5,T,G,5,8.4,9.5,8.9,20,8,9,6.5,6.25,36,37
+21,9729,Lưu Xuân Mai,18/11/2009,Cần Thơ,Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.6,8.4,8.7,20,8.25,7.5,8.25,6,36,35.75
+22,9740,Hoàng Minh Nguyệt,12/4/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường TH và THCS Quang Phú,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.1,8.5,8.8,20,7.75,8,7.25,6.5,36,35.75
+23,9750,Nguyễn Trần Gia Như,16/03/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.2,8.6,9.3,20,7.75,8.25,7.5,6.25,36,36
+24,9762,Võ Trần Thanh Thảo,28/06/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Hải Thành,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.8,8.1,8.8,20,8,8,7.5,6.25,36,36
+25,9725,Nguyễn Hà Linh,5/12/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.6,8.4,8.4,20,7.75,8,8.5,5.75,35.75,35.75
+26,9741,Nguyễn Lê Ánh Nguyệt,3/10/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường TH và THCS Thuận Đức,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.6,9.2,9.1,20,7.75,8.25,7.25,6.25,35.75,36
+27,9752,Phạm Thị Quỳnh Như,3/7/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Bắc Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,9,9.1,9.1,20,8,8.5,7.75,5.75,35.75,36.5
+28,9764,Đinh Ngọc Anh Thư,9/10/2009,"Bố Trạch, Quảng Bình",Nữ,Kinh,THCS Quách Xuân Kỳ,Văn chuyên,THPT Lê Quý Đôn,THPT Ngô Quyền,T,G,5,T,G,5,T,G,5,T,G,5,8.8,8.9,8.8,20,8,8,6.75,6.5,35.75,36
+29,9735,Lê Nguyên Ngọc,30/07/2009,"Bố Trạch, Quảng Bình",Nữ,Kinh,THCS Đại Trạch,Văn chuyên,THPT Lê Quý Đôn,THPT Ngô Quyền,T,G,5,T,G,5,T,G,5,T,G,5,8.9,8.1,8.7,20,8.5,7.5,5.5,7,35.5,36
+30,9767,Nguyễn Trần Anh Thư,2/9/2009,"Quảng Ninh, Quảng Bình",Nữ,Kinh,THCS Xuân Ninh,Văn chuyên,THPT Quảng Ninh,THPT Nguyễn Hữu Cảnh,T,G,5,T,G,5,T,G,5,T,G,5,8.8,8.9,8.7,20,8,8.5,6,6.5,35.5,36.5
+31,9738,Trần Vũ Như Ngọc,19/03/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.7,8.3,9.1,20,8.5,7.25,5.5,7,35.25,35.75
+32,9702,Bùi Thị Phương Dung,20/07/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Đức Ninh Đông,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.4,9.5,9,20,7.5,8,9.75,4.75,34.75,35.5
+33,9691,Ngô Nguyễn Châu Anh,19/09/2009,"Quảng Trạch, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.4,8.3,8.4,20,7.25,7.5,6.25,6.75,34.5,34.75
+34,9704,Nguyễn Vân Hà,22/01/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8,7.4,8.1,20,7.5,7.75,8.25,5.5,34.5,35.25
+35,9706,Đoàn Nữ Thúy Hằng,24/02/2009,"Tuyên Hóa, Quảng Bình",Nữ,Kinh,Trường THCS Đồng Hóa,Văn chuyên,THPT Tuyên Hóa,,T,G,5,K,G,5,T,G,5,T,G,5,8.5,8.4,8.4,20,6.75,8,5.75,7,34.5,34.75
+36,9711,Trần Gia Hân,2/11/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.4,8.1,8.1,20,8.5,6.75,7.25,6,34.5,35.25
+37,9715,Trương Phúc Mỹ Hoa,24/09/2009,Đà Nẵng,Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.6,8.9,8.8,20,8,8.5,8.5,4.75,34.5,36.5
+38,9724,Ngô Gia Linh,12/10/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS và THPT Chu Văn An,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.8,8.5,9,20,8.25,7.75,6.5,6,34.5,36
+39,9732,Đặng Khánh Linh Nga,12/1/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Phan Đình Phùng,THPT Đào Duy Từ,T,G,5,T,G,5,T,G,5,T,G,5,8.6,8,8.4,20,7.75,8.5,6.25,6,34.5,36.25
+40,9747,Võ Thị Phương Nhung,29/08/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS số 2 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.4,8.1,8.3,20,7.25,6.5,7.5,6.5,34.25,33.75
+41,9768,Phạm Hoàng Bảo Thy,11/6/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Đồng Phú,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.6,8.2,8.5,20,8.25,7.5,6,6.25,34.25,35.75
+42,9697,Đinh Ngọc Quỳnh Chi,28/06/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS số 1 Đồng Sơn,Văn chuyên,THPT Đồng Hới,THPT Đào Duy Từ,T,G,5,T,G,5,T,G,5,T,G,5,8.4,8,8.8,20,8.25,7.25,7.5,5.5,34,35.5
+43,9699,Nguyễn Hà Chi,19/07/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Đồng Phú,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.9,8.9,9,20,7.75,7.5,8.75,5,34,35.25
+44,9756,Nguyễn Lê Minh Phương,26/02/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.5,7.8,8.3,20,8.5,7.25,6.25,6,34,35.75
+45,9698,Lê Ngọc Khánh Chi,22/10/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.7,8.4,8.4,20,6.75,8.75,7.75,5.25,33.75,35.5
+46,9700,Nguyễn Thảo Chi,15/05/2009,Khánh Hòa,Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.1,8.3,8.5,20,7.5,7.25,6.5,6.25,33.75,34.75
+47,9703,Nguyễn Thị Hương Giang,26/02/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.7,7.6,8.5,20,7.25,8.75,7.25,5.25,33.75,36
+48,9713,Lý Tâm Hiền,30/12/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS số 2 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.7,9.3,8.8,20,8.25,9,6.5,5,33.75,37.25
+49,9714,Trần Ngọc Hiền,12/3/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.4,8.7,8.5,20,8,9,7.75,4.5,33.75,37
+50,9771,Nguyễn Ngọc Anh Trang,29/09/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Bắc Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.7,8.1,8.6,20,8,8.5,7.25,5,33.75,36.5
+51,9773,Hoàng Thùy Trinh,29/01/2009,Gia Lai,Nữ,Kinh,Trường THCS Đức Ninh Đông,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.3,8.1,8.9,20,8.25,7.25,6.75,5.75,33.75,35.5
+52,9690,Lê Dương Ngọc Anh,5/11/2009,Thừa Thiên Huế,Nữ,Kinh,Trường THCS Đồng Phú,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.9,9.1,9.3,20,8,9,7.5,4.5,33.5,37
+53,9774,Hoàng Như Cát Tường,15/09/2009,Thừa Thiên Huế,Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8,8.1,8.3,20,8.25,8.5,5.75,5.5,33.5,36.75
+54,9712,Đoàn Lê Minh Hiền,21/08/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS số 2 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,,,8.4,20,7.75,7.25,7.75,5.25,33.25,35
+55,9754,Đặng Khánh Phương,25/12/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.7,8.4,9,20,8,8,7.75,4.75,33.25,36
+56,9757,Nguyễn Minh Phương,1/5/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.7,6.9,8,20,8.75,7,5,6.25,33.25,35.75
+57,9758,Trần Nhã Phương,27/10/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.9,9,9,20,8.25,9,5,5.5,33.25,37.25
+58,9772,Phạm Huyền Trang,24/10/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,9,8.2,8.7,20,8,8,7.75,4.75,33.25,36
+59,9705,Trương Lê Hồng Hạ,29/03/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Lương Ninh,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.9,8.1,8.6,20,7.25,6.5,9.25,5,33,33.75
+60,9728,Đinh Hương Ly,21/08/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.7,7.5,8.2,20,8.75,7.75,6,5.25,33,36.5
+61,9701,Nguyễn Thị Quỳnh Chi,21/01/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Bắc Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.9,8.8,8.8,20,6.75,8.75,6.75,5.25,32.75,35.5
+62,9770,Lê Thùy Trang,26/05/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Lộc Ninh,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.2,8.4,8.7,20,8,7.5,4.25,6.5,32.75,35.5
+63,9710,Thân Thị Bảo Hân,10/10/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Lộc Ninh,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.2,8.4,8.6,20,8,8,6,5.25,32.5,36
+64,9716,Trương Thị Thanh Hoài,19/08/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.5,8.1,8.5,20,7.75,6.5,5.25,6.5,32.5,34.25
+65,9744,Phùng Nguyệt Nhi,22/09/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS TT Quán Hàu,Văn chuyên,THPT Ninh Châu,THPT Quảng Ninh,T,G,5,T,G,5,T,G,5,T,G,5,8.1,7.2,8.6,20,8.25,6.5,4.25,6.75,32.5,34.75
+66,9745,Tống Hoàng Nhi,22/05/2009,"Lệ Thuỷ, Quảng Bình",Nữ,Kinh,Trường THCS Mỹ Thủy,Văn chuyên,THPT Lệ Thủy,THPT Nguyễn Chí Thanh,T,G,5,T,G,5,T,G,5,T,G,5,8.6,8.9,8.8,20,8,7.5,6.5,5.25,32.5,35.5
+67,9727,Nguyễn Ngọc Khánh Linh,16/09/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS số 1 Đồng Sơn,Văn chuyên,THPT Đào Duy Từ,THPT Đồng Hới,T,G,5,T,G,5,T,G,5,T,G,5,8.5,7,8.6,20,7.5,6.75,6.5,5.75,32.25,34.25
+68,9769,Hồ Quỳnh Trang,18/09/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS số 2 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.6,8.3,8.7,20,8.75,8,5,5,31.75,36.75
+69,9689,Bùi Trần Hồng Anh,17/12/2009,Thừa Thiên Huế,Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,7.2,7,8.4,20,6.75,6.5,7,5.5,31.25,33.25
+70,9696,Lê Ngọc Bảo Châu,2/3/2009,"Quảng Ninh, Quảng Bình",Nữ,Kinh,THCS Võ Ninh,Văn chuyên,THPT Ninh Châu,THPT Nguyễn Hữu Cảnh,T,G,5,T,G,5,T,G,5,T,G,5,8.4,8.5,8.6,20,8.25,8,7,4,31.25,36.25
+71,9720,Nguyễn Ngọc Lan,17/01/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.9,8.8,9.1,20,8.5,5.5,7.25,5,31.25,34
+72,9733,Đặng Hoàng Thu Ngân,11/1/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS số 1 Đồng Sơn,Văn chuyên,THPT Đồng Hới,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.4,8,8.9,20,7.5,8.25,5.25,5,31,35.75
+73,9751,Phạm Quỳnh Như,6/4/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,,,8.1,20,8,7,8,4,31,35
+74,9709,Nguyễn Hoàng Gia Hân,19/08/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Bắc Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.5,8,8.3,20,7.5,6,6.75,5.25,30.75,33.5
+75,9761,Trần Thị Phương Thảo,1/6/2009,Thừa Thiên Huế,Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.2,8,8.5,20,8,8,6.75,4,30.75,36
+76,9765,Hồ Minh Thư,25/11/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.1,8.7,8.6,20,8,7,7.75,4,30.75,35
+77,9775,Nghiêm Thị Hồng Vân,20/11/2009,Hà Nội,Nữ,Kinh,Trường THCS Châu Hóa,Văn chuyên,THPT Lê Trực,THPT Phan Bội Châu,T,G,5,T,G,5,T,K,4.5,T,K,4.5,8.4,6.7,7.8,19,8,7.25,3,6.25,30.75,34.25
+78,9717,Trần Đoàn Nhật Khánh,13/07/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Đức Ninh,Văn chuyên,THPT Đào Duy Từ,THPT Đồng Hới,T,G,5,T,G,5,T,G,5,T,G,5,,,8.3,20,7.5,6.75,6.25,5,30.5,34.25
+79,9746,Trần Hồ Yến Nhi,26/07/2009,"Tuyên Hóa, Quảng Bình",Nữ,Kinh,Trường THCS Nguyễn Hàm Ninh,Văn chuyên,THPT Lương Thế Vinh,THPT Nguyễn Bỉnh Khiêm,T,G,5,T,G,5,T,G,5,T,G,5,9,9.1,8.9,20,7.75,7.5,4,5.5,30.25,35.25
+80,9749,Nguyễn Quỳnh Như,4/3/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.2,7.4,8.3,20,7.25,8,5.75,4.5,30,35.25
+81,9719,Phan Hoàng Nhật Lam,22/07/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,7.7,8,8.7,20,7.5,5,5.75,5.25,28.75,32.5
+82,9722,Dương Bảo Linh,12/2/2009,"Lệ Thuỷ, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.7,7.7,8,20,8.5,6,4,5,28.5,34.5
+83,9763,Vũ Ngọc Phương Thảo,21/09/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8,8,8.5,20,7.75,7.5,6.25,3.5,28.5,35.25
+84,9755,Hoàng Thị Hà Phương,1/9/2009,"Ba Đồn, Quảng Bình",Nữ,Kinh,Trường THCS số 2 Nam Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.1,8,8.3,20,7.75,6.25,4.75,4.75,28.25,34
+85,9759,Nguyễn Thị Phương Thảo,26/06/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Đồng Phú,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.3,8.2,8.7,20,7.75,7.25,4.5,4.25,28,35
+86,9694,Võ Thanh Bình,24/02/2009,"Bố Trạch, Quảng Bình",Nam,Kinh,THCS Quách Xuân Kỳ,Văn chuyên,THPT Lê Quý Đôn,THPT Ngô Quyền,T,G,5,T,G,5,T,G,5,T,G,5,7.9,9.1,8.1,20,7.5,7.75,3.25,4.25,27,35.25
+87,9692,Võ Mai Anh,29/12/2009,"Quảng Trạch, Quảng Bình",Nữ,Kinh,Trường THCS Quảng Hưng,Văn chuyên,THPT Lương Thế Vinh,THPT Quang Trung,T,G,5,T,G,5,T,G,5,T,G,5,9.4,8.8,9,20,7.75,5.5,5.5,4,26.75,33.25
+88,9742,Hoàng Đông Nhi,20/07/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,THCS Đồng Hải,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,K,4.5,T,K,4.5,T,K,4.5,T,G,5,8,7.2,8.2,18.5,6.5,6.5,8.25,2.5,26.25,31.5
+89,9695,Đinh Ngô Băng Châu,1/1/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS số 1 Đồng Sơn,Văn chuyên,THPT Đồng Hới,,T,G,5,T,G,5,T,K,4.5,T,G,5,8,6.8,8,19.5,7.5,3.25,5.5,4.5,25.25,30.25
+90,9760,Phan Nữ Nguyên Thảo,3/8/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Bắc Lý,Văn chuyên,THPT Đào Duy Từ,THPT Phan Đình Phùng,T,G,5,T,G,5,T,G,5,T,G,5,8.2,8.1,8.2,20,7.5,6.25,3,3.75,24.25,33.75
+91,9686,Lê Hoài An,25/10/2009,"Đồng Hới, Quảng Bình",Nữ,Kinh,Trường THCS Số 1 Bắc Lý,Văn chuyên,THPT Phan Đình Phùng,THPT Đồng Hới,T,G,5,T,K,4.5,T,K,4.5,T,K,4.5,6.9,8,7.9,18.5,6,4.5,2.5,3.5,20,29
